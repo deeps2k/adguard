@@ -1,0 +1,17 @@
+# Deeps2kblock
+# Version: 1.1
+# Last Update: 2021-02-10
+# Homepage: https://ssl.bblck.me/
+# Canonical URL for this file: https://ssl.bblck.me/blacklists/hosts-file.txt
+
+# ============== Site group 1 ==============
+# GitHub Issue: https://github.com/paulgb/BarbBlock/issues/1
+# Takedown URL: https://github.com/github/dmca/blob/master/2017/2017-08-02-LevenLabs.md
+
+0.0.0.0 functionalclam.com
+
+# ============== Site group 2 ==============
+# GitHub Issue: https://github.com/paulgb/BarbBlock/issues/21
+
+0.0.0.0 119.29.196.104.bc.googleusercontent.com
+0.0.0.0 hangouts.google.com
